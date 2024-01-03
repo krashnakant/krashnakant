@@ -6,6 +6,7 @@ Experienced Full Stack Engineer with over a decade of expertise in developing ro
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me: krashna.chaurasia@yahoo.com
 - 🔖 My [cv](https://github.com/krashnakant/cv/blob/main/Krashna_cv.png)
+- 🌀 Site [https://krashna.in]
 
 <!--
 **krashnakant/krashnakant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
