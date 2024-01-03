@@ -2,7 +2,7 @@
 
 Experienced Full Stack Engineer with over a decade of expertise in developing robust web applications. Passionate about crafting seamless digital experiences and dedicated to continuous learning in the ever-evolving tech landscape. Explore my GitHub repositories to witness a decade-long journey of innovative web application creations.
 
-- 🔭 I’m currently working on Bauhaus
+- 🔭 I’m currently working in Bauhaus
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me: krashna.chaurasia@yahoo.com
 - 🔖 My [cv](https://github.com/krashnakant/cv/blob/main/Krashna_cv.png)
