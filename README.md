@@ -4,7 +4,7 @@ Experienced Full Stack Engineer with over a decade of expertise in developing ro
 
 - 🔭 I’m currently working in Bauhaus
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me: krashna.chaurasia@yahoo.com
+- 📫 How to reach me: [https://krashna.in]
 - 🔖 My [cv](https://github.com/krashnakant/cv/blob/main/Krashna_cv.png)
 - 🌀 Site [https://krashna.in]
 
